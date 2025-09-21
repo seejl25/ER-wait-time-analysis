@@ -98,7 +98,7 @@ Wait Time Analysis (Box Plots)
 
 ### 📂 Deliverables
 
-- er_wait_dashboard.twbx → Tableau interactive dashboard
+- er_wait_time.twbx → Tableau interactive dashboard
 
 - er_wait_presentation.pdf → Canva presentation slides (exported)
 
